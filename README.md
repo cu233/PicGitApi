@@ -1,7 +1,7 @@
 <div align="center">
 
 
-##本项目fork自![AUXPI](https://github.com/aimerforreimu/auxpi)
+## 本项目fork自[AUXPI](https://github.com/aimerforreimu/auxpi)
 
 ## 1.分发原理
 
